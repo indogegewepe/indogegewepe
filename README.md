@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tsiqoh
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning React
 - 📫 How to reach me +6281227868290
 
 <!---
