@@ -23,7 +23,7 @@
 [<img align="left" alt="SASS" width="22px" src="https://img.icons8.com/color/480/000000/sass.png" />][sass]
 [<img align="left" alt="Javascript" width="22px" src="https://github.com/indogegewepe/logos/blob/main/icons8-javascript.svg" />][javascript]
 [<img align="left" alt="Github" width="22px" src="https://github.com/indogegewepe/logos/blob/main/GitHub-Mark-120px-plus.png" />][github]
-[<img align="left" alt="PHP" width="22px" src="https://img.icons8.com/office/16/000000/database.png" />][php]
+[<img align="left" alt="PHP" width="22px" src="https://img.icons8.com/office/80/000000/database.png" />][php]
 [<img align="left" alt="NodeJS" width="22px" src="https://github.com/indogegewepe/logos/blob/main/nodejs-seeklogo.com.svg" />][node]
 [<img align="left" alt="Python" width="22px" src="https://github.com/indogegewepe/logos/blob/main/python-seeklogo.com.svg" />][python]
 
