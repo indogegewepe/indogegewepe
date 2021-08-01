@@ -1,10 +1,12 @@
-### Hi there, I’m Tsiqoh a.k.a Indogegewepe 👋
+# Hi there, I’m Tsiqoh a.k.a Indogegewepe 👋
 
-## I'm a Student and Gamer!
+### I'm a University Student!
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning everything 🤣
 - 📫 2021 Goals: Completed Front-End Dev Training
 - ⚡ Fun Fact: I like traveling✨ and playing guitar🎶
+
+<br>
 
 ### Connect with me:
 [<img align="left" alt="Valorant" width="22px" src="https://img.icons8.com/plasticine/100/000000/valorant.png" />][valorant]
