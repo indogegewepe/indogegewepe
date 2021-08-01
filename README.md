@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Tsiqoh
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning React
-- 📫 How to reach me +6281227868290
+# Hi there, I’m Tsiqoh a.k.a Indogegewepe 👋
+## I'm a Student and Gamer!
 
-<!---
-indogegewepe/indogegewepe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning everything 🤣
+- 📫 2021 Goals: Completed Front-End Dev Training
+- ⚡ Fun Fact: I like traveling✨ and playing guitar🎶
+
+### Connect with me:
+
+### Languages and Tools:
