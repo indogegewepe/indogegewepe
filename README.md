@@ -1,3 +1,5 @@
+[valorant]: "https://tracker.gg/valorant/profile/riot/Sedenter%235758/overview"
+
 ### Hi there, I’m Tsiqoh a.k.a Indogegewepe 👋
 
 ## I'm a Student and Gamer!
@@ -11,4 +13,3 @@
 
 ### Languages and Tools:
 
-[valorant]: "https://tracker.gg/valorant/profile/riot/Sedenter%235758/overview"
