@@ -9,7 +9,7 @@
 ### Connect with me:
 [<img align="left" alt="Valorant" width="22px" src="https://img.icons8.com/plasticine/100/000000/valorant.png" />][valorant]
 [<img align="left" alt="Twitter" width="22px" src="https://github.com/indogegewepe/logos/blob/main/twitter.png" />][twitter]
-[<img align="left" alt="Instagram" width="22px" src="https://github.com/indogegewepe/logos/blob/main/instagram%20(1).png" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/480/000000/instagram-new--v1.png" />][instagram]
 [<img align="left" alt="Youtube" width="22px" src="https://github.com/indogegewepe/logos/blob/main/youtube.png" />][youtube]
 [<img align="left" alt="Linkedin" width="22px" src="https://github.com/indogegewepe/logos/blob/main/linkedin.png" />][linkedin]
 [<img align="left" alt="Discord" width="22px" src="https://github.com/indogegewepe/logos/blob/main/Discord-Logo-Color.svg" />][discord]
