@@ -1,5 +1,3 @@
-[valorant]: "https://tracker.gg/valorant/profile/riot/Sedenter%235758/overview"
-
 ### Hi there, I’m Tsiqoh a.k.a Indogegewepe 👋
 
 ## I'm a Student and Gamer!
@@ -9,7 +7,7 @@
 - ⚡ Fun Fact: I like traveling✨ and playing guitar🎶
 
 ### Connect with me:
-[<img align="left" alt="Valorant" width="22px" src="https://github.com/indogegewepe/logos/blob/main/valorant-vector-logo.svg" />][valorant]
+[<img align="left" alt="Valorant" width="22px" src="https://github.com/indogegewepe/logos/blob/main/valorant-vector-logo.svg" />][https://tracker.gg/valorant/profile/riot/Sedenter%235758/overview]
 
 ### Languages and Tools:
 
