@@ -7,7 +7,7 @@
 - ⚡ Fun Fact: I like traveling✨ and playing guitar🎶
 
 ### Connect with me:
-[<img align="left" alt="Valorant" width="22px" src="https://github.com/indogegewepe/logos/blob/main/valorant-vector-logo.svg" />][https://tracker.gg/valorant/profile/riot/Sedenter%235758/overview]
+[<img align="left" alt="Valorant" width="22px" src="https://github.com/indogegewepe/logos/blob/main/valorant-vector-logo.svg" /> https://tracker.gg/valorant/profile/riot/Sedenter%235758/overview]
 
 ### Languages and Tools:
 
