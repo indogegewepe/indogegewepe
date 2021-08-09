@@ -1,4 +1,4 @@
-# Hi there, I’m Tsiqoh a.k.a Indogegewepe 👋
+# Hi there, I’m Tsiqoh 👋
 
 ### I'm a University Student!
 - 👀 I’m interested in Technology
