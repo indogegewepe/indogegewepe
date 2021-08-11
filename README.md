@@ -1,4 +1,4 @@
-# Hi there, I’m Tsiqoh [<img align="left" alt="Hello" width="22px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />]
+# Hi there, I’m Tsiqoh <img alt="Hello" width="27px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"/>
 
 ### I'm a University Student!
 - 👀 I’m interested in Technology
