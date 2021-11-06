@@ -9,7 +9,6 @@
 <br>
 
 ### Connect with me:
-[<img align="left" alt="Valorant" width="22px" src="https://img.icons8.com/plasticine/100/000000/valorant.png" />][valorant]
 [<img align="left" alt="Twitter" width="22px" src="https://github.com/indogegewepe/logos/blob/main/twitter.png" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/480/000000/instagram-new--v1.png" />][instagram]
 [<img align="left" alt="Youtube" width="22px" src="https://github.com/indogegewepe/logos/blob/main/youtube.png" />][youtube]
@@ -29,7 +28,6 @@
 [<img align="left" alt="NodeJS" width="22px" src="https://github.com/indogegewepe/logos/blob/main/nodejs-seeklogo.com.svg" />][node]
 [<img align="left" alt="Python" width="22px" src="https://github.com/indogegewepe/logos/blob/main/python-seeklogo.com.svg" />][python]
 
-[valorant]: https://tracker.gg/valorant/profile/riot/Sedenter%235758/overview
 [twitter]: https://twitter.com/Tsiqohhh
 [instagram]: https://www.instagram.com/tsiqohhh/
 [youtube]: https://www.youtube.com/channel/UCLO-9nUDXZbYZqtqhlq_1fw
