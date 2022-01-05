@@ -3,7 +3,7 @@
 ### I'm a University Student!
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning everything 🤣
-- 📫 2021 Goals: Completed Front-End Dev Training
+- 📫 2022 Goals: Survive
 - ⚡ Fun Fact: I like traveling✨ and playing guitar🎶
 
 <br>
