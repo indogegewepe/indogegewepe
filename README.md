@@ -36,10 +36,10 @@
 
 <h4>Top langs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /></h4>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indogegewepe&langs_count=10&theme=tokyonight&layout=compact" alt="indogegewepe :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indogegewepe&langs_count=10&&bg_color=90,F9F2ED,3AB0FF,ED2B2A&layout=compact" alt="indogegewepe :: Top Langs" /></p>
 
 <h4>Profile stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Keyboard.png" alt="Musical Keyboard" width="25" height="25" /></h4>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=indogegewepe&show_icons=true&theme=dracula" alt="indogegewepe :: Profile Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=indogegewepe&show_icons=true&bg_color=90,F9F2ED,3AB0FF,ED2B2A,F87474" alt="indogegewepe :: Profile Stats" /></p>
 
 <p><img src="https://thumbs.gfycat.com/adventurousobesecentipede-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
