@@ -1,5 +1,7 @@
 # Hi there, I’m Bagas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Light%20Skin%20Tone.png" alt="Call Me Hand Light Skin Tone" width="50" height="50" />
 
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/395a40ac-7995-4c85-a8f1-e72a6530aec5/dek86o4-22aac2ef-3118-4331-937d-8549cd2fc3c3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM5NWE0MGFjLTc5OTUtNGM4NS1hOGYxLWU3MmE2NTMwYWVjNVwvZGVrODZvNC0yMmFhYzJlZi0zMTE4LTQzMzEtOTM3ZC04NTQ5Y2QyZmMzYzMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FHTm4y8h_naXZhBtEFjI2brMORa7Sjp6BKJxTEpDBI0" alt="Cats" height="500" width="500">
+
 ### I'm a University Student!
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" alt="Astonished Face" width="25" height="25" /> I’m interested in Technology
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Potted%20Plant.png" alt="Potted Plant" width="25" height="25" /> I’m currently learning everything <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
@@ -36,10 +38,8 @@
 
 <h4>Top langs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /></h4>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indogegewepe&langs_count=10&&bg_color=90,F9F2ED,3AB0FF,ED2B2A&layout=compact" alt="indogegewepe :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indogegewepe&langs_count=10&title_color=0B1B5A&text_color=E55E45&border_color=0B1B5A&bg_color=FFFFFF&layout=compact" alt="indogegewepe :: Top Langs" /></p>
 
 <h4>Profile stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Keyboard.png" alt="Musical Keyboard" width="25" height="25" /></h4>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=indogegewepe&show_icons=true&bg_color=90,F9F2ED,3AB0FF,ED2B2A,F87474" alt="indogegewepe :: Profile Stats" /></p>
-
-<p><img src="https://thumbs.gfycat.com/adventurousobesecentipede-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=indogegewepe&title_color=0B1B5A&text_color=E55E45&border_color=0B1B5A&bg_color=FFFFFF" alt="indogegewepe :: Profile Stats" /></p>
