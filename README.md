@@ -46,7 +46,7 @@
 <h4 align="center">Profile stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Keyboard.png" alt="Musical Keyboard" width="25" height="25" /></h4>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=indogegewepe&theme=buefy" alt="indogegewepe :: Profile Stats" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indogegewepe&theme=buefy&mode=weekly" alt="indogegewepe" align="right"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=indogegewepe&theme=buefy" alt="indogegewepe :: Profile Stats" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=indogegewepe&theme=buefy&mode=weekly" alt="indogegewepe" align="right"/>
 </p>
 </h1>
