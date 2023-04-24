@@ -38,8 +38,9 @@
 
 <h4>Top langs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /></h4>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indogegewepe&langs_count=10&title_color=0B1B5A&text_color=E55E45&border_color=0B1B5A&bg_color=FFFFFF&layout=compact" alt="indogegewepe :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indogegewepe&langs_count=10&title_color=0B1B5A&text_color=E55E45&border_color=0B1B5A&layout=compact" alt="indogegewepe :: Top Langs" /></p>
 
 <h4>Profile stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Keyboard.png" alt="Musical Keyboard" width="25" height="25" /></h4>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=indogegewepe&title_color=0B1B5A&text_color=E55E45&border_color=0B1B5A&bg_color=FFFFFF" alt="indogegewepe :: Profile Stats" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=indogegewepe&title_color=0B1B5A&text_color=E55E45&border_color=0B1B5A" alt="indogegewepe :: Profile Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=indogegewepe&title_color=0B1B5A&text_color=E55E45&border_color=0B1B5A&mode=weekly" alt="indogegewepe" align="right"/>
