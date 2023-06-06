@@ -20,7 +20,7 @@
 <br>
 
 [twitter]: https://twitter.com/Tsiqohhh
-[instagram]: https://www.instagram.com/tsiqohhh/
+[instagram]: https://www.instagram.com/bgstsqh/
 [youtube]: https://www.youtube.com/channel/UCLO-9nUDXZbYZqtqhlq_1fw
 [discord]: https://discord.gg/KMASMkmrQr
 [github]: https://github.com/indogegewepe
