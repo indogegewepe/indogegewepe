@@ -28,7 +28,7 @@
 [css]: https://en.wikipedia.org/wiki/CSS
 [linkedin]: https://www.linkedin.com/in/bagas-uwaidha-4756261b5/
 
-<br><br>
+<br> <br>
 
 <h2 align="center">Github stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /></h2>
   
