@@ -6,7 +6,7 @@
 ### 👨‍🎓 About Me
 
 - 🧑‍💻 I'm a university student passionate about technology and creative coding
-- 🌱 Currently learning **Web Development**, **Next.js**, and **UI Engineering**
+- 🌱 Currently learning **Web Development**, **Next.js**, and **Software Engineering**
 - ✈️ 2025 Goals: **Graduate** and contribute to open-source
 - 🎸 Fun Fact: I love traveling and pop-punk music 🎧
 
