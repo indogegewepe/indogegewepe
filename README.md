@@ -31,14 +31,6 @@
 
 ---
 
-### 👁 Visitor Counter
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/indogegewepe/count.svg" />
-</p>
-
----
-
 <!-- SOCIAL LINKS -->
 [twitter]: https://twitter.com/Tsiqohhh
 [instagram]: https://www.instagram.com/bgstsqh/
