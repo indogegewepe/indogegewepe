@@ -34,7 +34,7 @@
 ---
 
 #### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sedenter&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=indogegewepe&theme=onedark)
 
 ---
 
