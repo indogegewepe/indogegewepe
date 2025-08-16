@@ -34,7 +34,7 @@
 ---
 
 #### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=indogegewepe&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=indogegewepe&theme=onedark&column=3&margin-w=15&margin-h=15)
 
 ---
 
