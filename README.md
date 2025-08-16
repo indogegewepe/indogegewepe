@@ -33,6 +33,11 @@
 
 ---
 
+#### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sedenter&theme=onedark)
+
+---
+
 <!-- SOCIAL LINKS -->
 [twitter]: https://twitter.com/Tsiqohhh
 [instagram]: https://www.instagram.com/bgstsqh/
